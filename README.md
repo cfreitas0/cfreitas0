@@ -1,16 +1,141 @@
-## Hi there 👋
+# 👨🏾 Cesar Freitas
 
-<!--
-**cfreitas0/cfreitas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Cursando Superior em ADS 2/5`** **`Cursando CiberSeguranca Profissional SYCP`**
 
-Here are some ideas to get you started:
+Meu nome é César, tenho 30 anos e sou um profissional motivado e empenhado em iniciar minha carreira em tecnologia da informação, combinando minhas habilidades técnicas em mecânica industrial e eletroeletrônica com meus novos conhecimentos em programação e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cursando Superior em ADS, na Faculdade de Ensino Anhanguera e obtenho cursos como: - Python, Kali Linux. Programação em C#, Desenvolvimento Web: Possuo conhecimentos em HTML e CSS, permitindo-me criar interfaces web responsivas e atraentes.
+
+
+---
+
+### 📚 Cursos extras relacionados a Tecnologia(Profissionalizante)
+
+**`Mecanica Industrial: `**[🏢SENAI-SP](https://www.sp.senai.br/)/
+**`Eletroeletronica: `**[🏢SENAI-SP](https://www.sp.senai.br/)
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+
+<img
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+ />
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
+          
+
+<br/>
+<br/>
+
+### ⚙️ IDEs
+
+<p>
+  
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+          
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+
+
+
+<img
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
+    
+    
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
+          
+
+</p>
+
